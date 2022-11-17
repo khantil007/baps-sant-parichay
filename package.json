@@ -1,7 +1,7 @@
 {
   "name": "baps-sant-parichay",
   "version": "1.0.0",
-  "description": "An example on how to use MUIDatatables",
+  "description": "Sant Parichay",
   "keywords": [],
   "main": "index.js",
   "dependencies": {
